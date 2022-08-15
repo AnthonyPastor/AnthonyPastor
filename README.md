@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About me:
-- 💪 I’m currently working as a developer in Sicfe S.A
+- 💪 I’m currently working as a Software developer in Vangwe
 - 👨‍🎓 I’m currently mastering MERN Stack. Check out my public repositories!! ❤️
 - 🌟 Fun fact: I love chips
 
